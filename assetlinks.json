@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.giselle_orugoru.twa",
+        "sha256_cert_fingerprints": ["9C:65:5C:F2:98:06:17:0A:AF:E9:03:4A:A2:F5:D2:8B:24:01:10:8E:4A:B3:66:9F:AE:EF:A6:90:6D:BE:D0:F1"]
+      }
+    }]
